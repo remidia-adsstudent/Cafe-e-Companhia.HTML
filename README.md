@@ -173,3 +173,10 @@ button:hover {
 </body>
 
 </html>
+
+
+AVALIAÇAO PROJETO - AVALIADOR: JOAO VITOR DOS SANTOS
+DATA: 02/09/2026 
+-Estrutura coerente e organizada sem codigos aleatorios
+-Apresenta o conteudo proposto no desafio
+-Em geral, o projeto cumpre com os requisitos do repositório e do HTML, a semântica está em perfeito estado, com todas as exigências informadas e apresentadas. A página apresenta a aplicação sem bugs aparentes e o vídeo parece funcionar de maneira estável. Em resumo o projeto parece está seguindo um bom caminho e pode melhorar cada vez mais.
